@@ -1,8 +1,15 @@
 <!Doctype html>
 <head>
 <title>dome</title>
+<style>
+ p{
+  color:red;
+ }
+</style>
 </head>
 <body>
-  <div>123</div>
+  <div>
+  <p>123</p>
+  </div>
 </body>
 </html>
